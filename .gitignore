@@ -1,0 +1,6 @@
+work/*.jou
+*.log
+work/.Xil/
+*.txt
+*.bit
+*.dcp

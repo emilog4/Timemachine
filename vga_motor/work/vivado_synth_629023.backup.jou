@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Apr  9 15:14:33 2026
+# Process ID: 629023
+# Current directory: /home/maxke580/Documents/TSEA83/code/vga_motor/work
+# Command line: vivado -mode batch -source /courses/TSEA83/bin/build.tcl -notrace -journal vivado_synth.jou -log vivado_synth.log -tclargs synth main.vhd bird_pkg.vhd celestial_pkg.vhd celestial_body.vhd bird_sprite.vhd pret_cpu.vhd video_ram.vhd vga_motor.vhd tile_rom.vhd Basys3.xdc
+# Log file: /home/maxke580/Documents/TSEA83/code/vga_motor/work/vivado_synth.log
+# Journal file: /home/maxke580/Documents/TSEA83/code/vga_motor/work/vivado_synth.jou
+# Running On: muxen2-108.ad.liu.se, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 12, Host memory: 16198 MB
+#-----------------------------------------------------------
+source /courses/TSEA83/bin/build.tcl -notrace
